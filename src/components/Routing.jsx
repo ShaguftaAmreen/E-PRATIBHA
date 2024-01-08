@@ -9,7 +9,7 @@ import ExamFinish from './ExamFinish';
 
 function Routing() {
   return (
-    <Router>
+    //<Router>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/register" element={<Register />} />
@@ -19,7 +19,7 @@ function Routing() {
         <Route path="/startexam/:examId" element={<StartExam />} />
         <Route path="/ExamFinish" element={<ExamFinish />} />
       </Routes>
-    </Router>
+   // </Router>
   );
 }
 
