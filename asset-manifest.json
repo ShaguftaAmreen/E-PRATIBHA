@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/E-Pratibha/static/css/main.d8d249a9.css",
+    "main.js": "/E-Pratibha/static/js/main.c1abdf7e.js",
+    "static/js/787.a4b45000.chunk.js": "/E-Pratibha/static/js/787.a4b45000.chunk.js",
+    "index.html": "/E-Pratibha/index.html",
+    "main.d8d249a9.css.map": "/E-Pratibha/static/css/main.d8d249a9.css.map",
+    "main.c1abdf7e.js.map": "/E-Pratibha/static/js/main.c1abdf7e.js.map",
+    "787.a4b45000.chunk.js.map": "/E-Pratibha/static/js/787.a4b45000.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8d249a9.css",
+    "static/js/main.c1abdf7e.js"
+  ]
+}
